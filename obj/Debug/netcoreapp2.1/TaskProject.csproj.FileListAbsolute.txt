@@ -1,0 +1,14 @@
+C:\Users\Eastvantage\Documents\ASP-Angular-App\TaskProject\bin\Debug\netcoreapp2.1\TaskProject.deps.json
+C:\Users\Eastvantage\Documents\ASP-Angular-App\TaskProject\bin\Debug\netcoreapp2.1\TaskProject.runtimeconfig.json
+C:\Users\Eastvantage\Documents\ASP-Angular-App\TaskProject\bin\Debug\netcoreapp2.1\TaskProject.runtimeconfig.dev.json
+C:\Users\Eastvantage\Documents\ASP-Angular-App\TaskProject\bin\Debug\netcoreapp2.1\TaskProject.dll
+C:\Users\Eastvantage\Documents\ASP-Angular-App\TaskProject\bin\Debug\netcoreapp2.1\TaskProject.pdb
+C:\Users\Eastvantage\Documents\ASP-Angular-App\TaskProject\obj\Debug\netcoreapp2.1\TaskProject.csprojAssemblyReference.cache
+C:\Users\Eastvantage\Documents\ASP-Angular-App\TaskProject\obj\Debug\netcoreapp2.1\TaskProject.csproj.CoreCompileInputs.cache
+C:\Users\Eastvantage\Documents\ASP-Angular-App\TaskProject\obj\Debug\netcoreapp2.1\TaskProject.RazorAssemblyInfo.cache
+C:\Users\Eastvantage\Documents\ASP-Angular-App\TaskProject\obj\Debug\netcoreapp2.1\TaskProject.RazorAssemblyInfo.cs
+C:\Users\Eastvantage\Documents\ASP-Angular-App\TaskProject\obj\Debug\netcoreapp2.1\TaskProject.AssemblyInfoInputs.cache
+C:\Users\Eastvantage\Documents\ASP-Angular-App\TaskProject\obj\Debug\netcoreapp2.1\TaskProject.AssemblyInfo.cs
+C:\Users\Eastvantage\Documents\ASP-Angular-App\TaskProject\obj\Debug\netcoreapp2.1\TaskProject.RazorTargetAssemblyInfo.cache
+C:\Users\Eastvantage\Documents\ASP-Angular-App\TaskProject\obj\Debug\netcoreapp2.1\TaskProject.dll
+C:\Users\Eastvantage\Documents\ASP-Angular-App\TaskProject\obj\Debug\netcoreapp2.1\TaskProject.pdb
